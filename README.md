@@ -6,4 +6,5 @@ Lights Out is a logic/puzzle game, played on a gird of individual lights, which 
 - The puzzle is won when when all of the lights are turned off.
 
 ### Built with React
-![alt text](https://github.com/janecpark/lightsout/blob/public/previewimg.png?raw=true)
+
+![alt text](https://github.com/janecpark/lightsout/blob/master/public/previewimg.png?raw=true)
