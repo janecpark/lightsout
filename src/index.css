@@ -5,6 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color:white;
+}
+
+p{
+  font-size: 14px;
+  margin-left: 15px;
+  font-family: 'Arial'
+}
+
+a{
+  color: white;
 }
 
 code {
